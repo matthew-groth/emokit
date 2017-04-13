@@ -42,4 +42,8 @@ pip-delete-this-directory.txt
 # Test file
 python/test.py
 
+<<<<<<< HEAD
 Icon*
+=======
+Icon*
+>>>>>>> refs/remotes/origin/master
