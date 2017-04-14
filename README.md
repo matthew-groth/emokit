@@ -1,4 +1,4 @@
-Emokits
+Emokit
 ======
 
 Reverse engineering and original code written by
